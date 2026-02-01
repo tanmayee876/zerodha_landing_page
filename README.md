@@ -5,4 +5,4 @@ The project demonstrates basic frontend concepts such as layout structuring and 
 
 Technologies used: HTML5, CSS (inline styles)
 
-Files required:  
+
